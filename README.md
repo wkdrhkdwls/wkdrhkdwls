@@ -1,6 +1,5 @@
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdrhkdwls&langs_count=8)](https://github.com/wkdrhkdwls/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdrhkdwls&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdrhkdwls&layout=compact)](https://github.com/wkdrhkdwls/github-readme-stats)
 <!--
 **wkdrhkdwls/wkdrhkdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
