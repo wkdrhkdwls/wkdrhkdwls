@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20GitHUb&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdrhkdwls&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdrhkdwls&layout=compact)](https://github.com/wkdrhkdwls/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdrhkdwls&layout=compact&theme=maroongold&count_private=true)](https://github.com/wkdrhkdwls/github-readme-stats)
 <!--
 **wkdrhkdwls/wkdrhkdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
